@@ -1,0 +1,25 @@
+img{
+    display: block;
+    margin: auto;
+    max-height: 200px;
+}
+p{
+    align-items: center;
+    text-align: center;
+}
+#detailFrame p{
+    text-align: left;
+}
+.container{
+    margin-top: 2em;
+}
+body{
+    height: 100%;
+}
+.row{
+    margin-bottom: 2em;
+}
+.card{
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
