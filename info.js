@@ -1,14 +1,14 @@
 var info = [
     {
-        "Foto": "./media/img/holder.jpg",
+        "Foto": "./media/img/averos.jpg",
         "Nombres": "David Alexander",
         "Apellidos": "Averos Otavalo",
-        "Fecha Nacimiento": "",
-        "Libros Leidos": [""],
-        "Skills": [""],
-        "Deportes": [""],
-        "Hobbies": [""],
-        "Películas Favoritas": [""]
+        "Fecha Nacimiento": "01 marzo 2000",
+        "Libros Leidos": ["Todos los rostros de la muerte", "100 años de soledad"],
+        "Skills": ["Orgulloso","Percistente"],
+        "Deportes": ["Tennis","Futbol"],
+        "Hobbies": ["Jugar videojuegos","GYM"],
+        "Películas Favoritas": ["La historia sin fin","Her"]
     },
     {
         "Foto": "./media/img/Barragan.jpg",
@@ -26,11 +26,11 @@ var info = [
         "Nombres": "Roberto Nicolás",
         "Apellidos": "Bubano Pozo",
         "Fecha Nacimiento": "9 septiembre 1998",
-        "Libros Leidos": ["A Hombros de Gigantes", "The Cult of the Death Cow", "Hard-Boiled Wonderland"],
-        "Skills": ["Python", "Angular", "Api Requests"],
-        "Deportes": ["Natación", "Correr", "Fútbol"],
-        "Hobbies": ["Competitive Yu-Gi-Oh!", "Dota 2", "Anime"],
-        "Películas Favoritas": ["Mr Nobody", "Super Bad", "Eternal Sunshine of the Spotless Mind"]
+        "Libros Leidos": ["The Cult of the Death Cow", "Hard-Boiled Wonderland"],
+        "Skills": ["Python", "Angular"],
+        "Deportes": ["Natación", "Correr"],
+        "Hobbies": ["Competitive Yu-Gi-Oh!", "Dota 2"],
+        "Películas Favoritas": ["Mr Nobody", "Eternal Sunshine of the Spotless Mind"]
     },
     {
         "Foto": "./media/img/Rosero.jpg",
